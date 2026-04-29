@@ -10,7 +10,7 @@ public class JeuEssai {
 		// 1er jeu d'essai
 		Elephant e = new Elephant("Dumbo");
 		e.afficheConsole();
-		Tigre t1 = new Tigre("Tigrou");
+		Tigre t1 = new Tigre("Tigrette");
 		t1.grimpe();
 		Zoo zoo = new Zoo();
 		zoo.heberge(e);
