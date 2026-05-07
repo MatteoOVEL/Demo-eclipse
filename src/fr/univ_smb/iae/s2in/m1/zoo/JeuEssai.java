@@ -16,7 +16,7 @@ public class JeuEssai {
 		zoo.heberge(e);
 		zoo.heberge(t1);
 		
-		Lion l1 = new Lion("Simba");
+		Lion l1 = new Lion("Scar");
 		zoo.heberge(l1);
 		zoo.nourrirLesAnimaux();
 		VetoFelin v = new VetoFelin();
